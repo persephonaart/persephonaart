@@ -1,7 +1,7 @@
 ## Hi, I'm Elena <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2>
 ### QA Engineer (Full-Stack Testing: UI, API, DB, Automation) 
 
-* 🧡 4+ years of experience in software testing
+* 🧡 Software test engineer, researcher & study coordinator
 * 🐍 Python-based test automation
 
 [![HH Badge](https://img.shields.io/badge/-HeadHunter-red?style=plastic&logoColor=white&link=https://hh.ru/resume/b18374faff0d4203880039ed1f75494f6a7269?print=true)](https://hh.ru/resume/b18374faff0d4203880039ed1f75494f6a7269?print=true)
