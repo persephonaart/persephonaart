@@ -28,7 +28,7 @@
 #### WEB/mobile:
 | Android Studio | Xcode | DevTools | Charles | Figma | HTML | CSS | Firebase | WireMock |
 |--------|---------|-----|--------|----------|----------|---------------|--------|-----------|
-| <img height="50" align="center" src="media/androidstudio.png" width="50"/>  | <img height="50" src="media/xcode.png" width="50"/>  |<img height="50" src="media/devtools.png" width="50"/>|<img height="55" src="media/charles.png" width="55"/> | <img height="50" src="media/figma.png" width="50"/> |<img height="50" src="media/html.png" width="50"/> | <img height="55" align="center" src="media/css.png" width="55"/>|<img height="60" src="media/firebase.png" width="60"/> | <img height="60" src="media/wiremock.png" width="70"/>|
+| <img height="50" align="center" src="media/androidstudio.png" width="50"/>  | <img height="50" src="media/xcode.png" width="50"/>  |<img height="50" src="media/devtools.png" width="50"/>|<img height="55" src="media/charles.png" width="55"/> | <img height="50" src="media/figma.png" width="50"/> |<img height="50" src="media/html.png" width="50"/> | <img height="50" align="center" src="media/css.png" width="50"/>|<img height="60" src="media/firebase.png" width="60"/> | <img height="60" src="media/wiremock.png" width="70"/>|
 
 #### Logs/monitoring:
 | Kibana | Grafana | Yandex Cloud | Jaeger | Sentry | Bash |
