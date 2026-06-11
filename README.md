@@ -48,7 +48,7 @@
 #### Projects:
 | API My Shows Rating |  API pokemonbattle | UI pokemonbattle |
 |---------------------|----------------------|--------------------|
-|[my-shows-api-tests]()|[pokemonbattle-api-tests]()   | [pokemonbattle-e2e-tests]()   
+|[my-shows-api-tests]()|[pokemonbattle-api-tests](https://github.com/persephonaart/pokemonbattle_api_tests)   | [pokemonbattle-e2e-tests]()   
 | Pytest, Requests, Docker|Pytest, Requests, Gitlab CI| Selenium, Gitlab CI|
 
 <!--
